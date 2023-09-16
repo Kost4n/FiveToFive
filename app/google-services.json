@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691002559930",
+    "project_id": "dkvcj-k",
+    "storage_bucket": "dkvcj-k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691002559930:android:0982142d2704bdf9a9e183",
+        "android_client_info": {
+          "package_name": "memb.costser.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691002559930-9bp3rt8btfmd5ci0cekkksae015gskn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhqkX954-1N2FA39o7Sc79gggu5Va9OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691002559930-9bp3rt8btfmd5ci0cekkksae015gskn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
